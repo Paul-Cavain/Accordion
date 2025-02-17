@@ -1,17 +1,5 @@
-#### React JS Ultimate Course [Profile Card]
+#### React JS Ultimate Course [Accordion]
 
-![profilecard](https://github.com/user-attachments/assets/2f1f46e8-ff67-4f23-8481-c09be97acb72)
+![Image](https://github.com/user-attachments/assets/5e304fc4-16fa-4225-9edf-676115aa634d)
 
-This project is built based on a progress learning ideas of components, props and Jsx.
-
-###### 1. React Componets
-
-###### 2. Why react component
-
-###### 3. Applying CSS in react
-
-###### 4. Passing and Receiving Props
-
-    NOTE
-    - No immutation of props
-    - React uses one way data flow
+This project is built based on a progress learning ideas of states and state Management.
